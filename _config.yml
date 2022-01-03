@@ -1,5 +1,5 @@
 # Site settings
-title: Yu Can Cook Too
+title: Yu Can Cook
 email: 
 url: https://yucancooktoo.github.io
 description: ""
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Yu Can Cook Too
+footer: Yu Can Cook
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
