@@ -14,7 +14,7 @@
 ## steps  
 1.  Mix ingredients in mixing bowl
 2.  Add oil in pan
-3.  Pour batter in pan and make flat
+3.  Pour batter in frying pan and make flat
 4.  Fry 1 minute on each side
 
 ## notes  
