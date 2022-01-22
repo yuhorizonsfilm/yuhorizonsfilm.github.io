@@ -55,7 +55,7 @@ $(document).ready(function() {
 
           // change page title too
           let elems = $(section);
-          let pageTitle = elems[0].innerHTML + ' | YuCanCook';
+          let pageTitle = elems[0].innerHTML + ' | References';
           $(document).prop('title', pageTitle);
         }
         // for all other pages, get id from regex match
@@ -95,7 +95,7 @@ $(document).ready(function() {
       // in info, add labels to time/quantity
       let time =  $('#info li:eq(0)');
       let makes = $('#info li:eq(1)');
-      $('#info ul').html('<li><span id="time">TIME </span>' + time.text() + '</li><li><span id="makes">MAKES </span>' + makes.text() + '</li>');
+      $('#info ul').html(time.text());
 
       // link icon svg code
       // via: https://fontawesome.com/icons/external-link-alt
