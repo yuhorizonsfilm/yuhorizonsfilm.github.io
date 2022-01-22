@@ -1,7 +1,7 @@
 # Delete a Google Virtual Tour  
 
 ## info  
-* There are the 2 ways you can delete a photo or virtual you took for a client
+* There are the 2 ways you can delete a photo or virtual tour you took for a client
 
 ## steps  
 1. Go to https://www.google.com/maps
