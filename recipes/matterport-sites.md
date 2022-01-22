@@ -16,3 +16,6 @@
 *  Enhanced Matterport https://mpembed.com
 *  Staging https://www.vrpm.co.uk/
 *  Staging https://partnership.3dvirtualstaging.club/
+*  Virtual openhouse agent assisted: https://www.agentrelay.com/
+*  Virtual openhouse agent assisted: https://public.nodalview.com/
+*  
