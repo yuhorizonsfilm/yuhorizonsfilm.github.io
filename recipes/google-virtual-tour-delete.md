@@ -11,8 +11,7 @@
 
 ## notes  
 *  You can also do the following if you are the business owner:
-*  Contact the GMB support team using this form:
-*  https://support.google.com/business/gethelp 
+*  Contact the GMB support team using this form: https://support.google.com/business/gethelp 
 
 ## based on  
 *  https://www.google.com/maps
