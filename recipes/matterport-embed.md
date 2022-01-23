@@ -19,13 +19,13 @@
 
 ## notes  
 *  Responsive Sizing
-* <pre> 
-* <style>
+* 
+* &lt;style&gt;
 * .matterport-showcase { position: relative; padding-bottom: 56.25%;
 * height: 0; overflow: hidden; }
 * .matterport-showcase iframe { position: absolute; top: 0; left: 0;
 * width: 100%; height: 100%; }
-* </style>
+* &lt;/style&gt;
 * <div class=’matterport-showcase’>
 *  <iframe width=”853” height=”480”
 * src=”https://my.matterport.com/show/? m=xxxxxxxxxxx” frameborder=”0”
