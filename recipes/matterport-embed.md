@@ -15,7 +15,7 @@
 9. Auto-Start Guided Tour: &ts=x after the Model ID, where x is the number of seconds after the initial fly-in before a guided tour automatically starts eg. 5
 10. Auto-Load:  &play=1
 11. Disable Scroll Wheel: &wh=0
-12. 
+12. MLS non-branded:  &brand=0
 
 ## notes  
 *  Responsive Sizing
