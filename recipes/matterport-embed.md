@@ -4,7 +4,7 @@
 * How to Embed a matterport tour on a website
 
 ## steps  
-1. <iframe allow="xr-spatial-tracking" allowfullscreen="" frameborder="0" height="500" src="https://my.matterport.com/show/?m=xxx" width="100%"></iframe>
+1. <pre><iframe allow="xr-spatial-tracking" allowfullscreen="" frameborder="0" height="500" src="https://my.matterport.com/show/?m=xxx" width="100%"></iframe></pre>
 2. Login to your Matterport account.
 3. Copy the embed code provided.
 4. Head to the page you'd like to embed the 3D environment while in edit mode.
