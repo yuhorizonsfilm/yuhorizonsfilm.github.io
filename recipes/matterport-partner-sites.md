@@ -1,7 +1,7 @@
-# Matterport Site  
+# Matterport Partner Sites  
 
 ## info  
-* Some import Matterport Sites
+* Some import Matterport Partner Sites
 
 ## steps  
 1. Please see sites below
