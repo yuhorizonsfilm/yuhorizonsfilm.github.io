@@ -18,8 +18,7 @@
 12. MLS non-branded:  &brand=0
 
 ## notes  
-*  Responsive Sizing
-* 
+* Responsive Sizing 
 * [style]
 * .matterport-showcase { position: relative; padding-bottom: 56.25%;
 * height: 0; overflow: hidden; }
