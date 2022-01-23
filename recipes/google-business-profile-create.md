@@ -20,4 +20,5 @@
 *  Through Google Business: https://www.google.com/business/ video: https://www.youtube.com/watch?v=81nhmYRTYZM
 *  Through Google Maps: https://support.google.com/business/answer/2911778
 *  Verify once code received in mail: https://support.google.com/business/answer/7107242  video: https://www.youtube.com/watch?v=bSj2-_fqc5U
+*  Via Google Maps: https://www.google.com/maps
 
