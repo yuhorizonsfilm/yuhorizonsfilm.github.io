@@ -1,4 +1,4 @@
-# Matterport embed on website  
+# Matterport embed on website and url parameters  
 
 ## info  
 * How to Embed a matterport tour on a website
@@ -33,5 +33,6 @@
 * [/div]
 
 ## based on  
-*  https://static.matterport.com/mp_cms/media/filer_public/ae/67/ae67aa2e-f1fb-4c93-804c-184e8ebcb8d6/matterport_embedding_guidelines_3.pdf
+*  https://support.matterport.com/s/article/URL-Parameters?language=en_US&ardId=kA05d000001DWztCAG (new)
+*  https://static.matterport.com/mp_cms/media/filer_public/ae/67/ae67aa2e-f1fb-4c93-804c-184e8ebcb8d6/matterport_embedding_guidelines_3.pdf (old)
 
