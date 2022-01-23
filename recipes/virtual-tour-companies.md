@@ -13,3 +13,4 @@
 *  https://www.leftorbit.ie/
 *  https://www.point3d.ca/
 *  https://odyssey3d.ca/
+*  https://360tourtoronto.com/
