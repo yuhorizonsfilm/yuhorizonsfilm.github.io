@@ -1,7 +1,7 @@
-# Restaunts  
+# Restaurants  
 
 ## info  
-* Restaunt virtual tours
+* Restaurant virtual tours
 
 ## steps  
 1. 
