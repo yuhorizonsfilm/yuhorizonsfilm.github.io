@@ -15,6 +15,7 @@
 *  
 
 ## based on  
-*  Throught Google Maps: https://support.google.com/business/answer/2911778
+*  Through Google Maps: https://support.google.com/business/answer/2911778
+*  Through Google Business: https://www.google.com/business/ video: https://www.youtube.com/watch?v=81nhmYRTYZM
 *  Verify once code received in mail: https://support.google.com/business/answer/7107242  video: https://www.youtube.com/watch?v=bSj2-_fqc5U
 
