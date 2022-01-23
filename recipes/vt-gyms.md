@@ -1,7 +1,7 @@
-# VT - Gyms  
+# Gyms  
 
 ## info  
-* Virtual tour of Gyms
+* Gym virtual tours
 
 ## steps  
 1. 
