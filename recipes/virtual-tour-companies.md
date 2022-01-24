@@ -16,3 +16,4 @@
 *  https://360tourtoronto.com/
 *  https://virtualtourcompany.co.uk/
 *  https://gryddigital.com/
+*  https://walkthru360.com/google-street-view-360/
