@@ -14,3 +14,4 @@
 *  Matterport - Rolls Royce & McLaren Dealer: https://my.matterport.com/show/?m=gT38hbJHe7M
 *  Matterport - Mini Dealer: https://my.matterport.com/show/?m=16Db8G4GRDC
 *  Matterport - BMW: https://my.matterport.com/show/?m=TBiGrNSMXbz
+*  Matterport - Mazda: https://my.matterport.com/show/?m=eLuheAunqW4
