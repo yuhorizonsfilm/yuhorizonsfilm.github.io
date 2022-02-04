@@ -11,4 +11,6 @@
 
 ## based on  
 *  Google - Huntington Beach Ford: https://goo.gl/maps/gMLvoTG9XNSf92kD8
-*  Matterport - Rolls Royce & McLaren Dealer: https://matterport.com/gallery/rolls-royce-mclaren-dealership
+*  Matterport - Rolls Royce & McLaren Dealer: https://my.matterport.com/show/?m=gT38hbJHe7M
+*  Matterport - Mini Dealer: https://my.matterport.com/show/?m=16Db8G4GRDC
+*  Matterport - BMW: https://my.matterport.com/show/?m=TBiGrNSMXbz
