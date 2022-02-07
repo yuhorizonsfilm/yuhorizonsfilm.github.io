@@ -17,4 +17,5 @@
 *  https://www.google.com/maps
 *  https://support.google.com/business/gethelp 
 *  https://support.google.com/maps/answer/2622947
+*  https://support.matterport.com/s/article/Remove-from-Google-Street-View?language=en_US&ardId=kA05d000001DWyaCAG
 
