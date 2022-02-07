@@ -1,7 +1,7 @@
 # Matterport Google Integration  
 
 ## info  
-* 
+* Matterport integration with Google virtual tours
 
 ## steps  
 1. 
