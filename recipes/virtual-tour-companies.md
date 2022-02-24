@@ -18,3 +18,4 @@
 *  https://gryddigital.com/
 *  https://walkthru360.com/google-street-view-360/
 *  https://restudio.ca/
+*  Google virtual tours: https://www.sphereographic.com/
