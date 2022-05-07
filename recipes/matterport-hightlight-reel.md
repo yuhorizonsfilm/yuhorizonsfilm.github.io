@@ -35,4 +35,5 @@
 ## based on  
 *  https://my.matterport.com
 *  https://www.mattervids.com/hlr
+*  https://www.youtube.com/watch?v=u_ykDdFD6u0 Automated Walkthrough
 
