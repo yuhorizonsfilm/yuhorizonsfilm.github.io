@@ -38,4 +38,5 @@
 *  https://www.youtube.com/watch?v=u_ykDdFD6u0 Automated Walkthrough
 *  https://www.mattervids.com/matterporthighlightreel/5-step-guide-to-a-smooth-matterport-highlight-reel
 *  https://www.mattervids.com/hlr
+*  Examples: https://vimeo.com/showcase/6682697
 
