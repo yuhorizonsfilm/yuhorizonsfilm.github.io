@@ -1,7 +1,7 @@
 # Boston Road Trip  
 
 ## info  
-* Boston Road trip from Toronto
+* Road trip from Toronto to Boston
 
 ## steps  
 1. Montreal
