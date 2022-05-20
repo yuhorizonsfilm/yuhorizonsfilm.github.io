@@ -1,7 +1,7 @@
 # Site settings
-title: References
+title: Yu Horizons
 email: 
-url: https://virtualthereinfo.github.io
+url: https://yuhorizons.github.io
 description: ""
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: References
+footer: Yu Horizons
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
