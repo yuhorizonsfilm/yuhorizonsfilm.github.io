@@ -110,7 +110,7 @@ $(document).ready(function() {
       help += '<ul>';
       for (let j in helpUrls) {
         let label = helpUrls[j].label;
-        let url = helpUrls[j].url.replace('<name>', recipeName);
+        let url = helpUrls[j].replace("'", "asdfqwert").url.replace('<name>', recipeName).replace("asdfqwert", "'");
         help += '<li><a href="' + url + '" target="blank">' + label + '</a></li>';
       }
       help += '</ul>';
