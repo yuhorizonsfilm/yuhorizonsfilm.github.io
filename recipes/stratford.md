@@ -18,6 +18,9 @@
 
 ## based on  
 *  Stratford https://www.google.com/maps/place/Stratford,+ON/@43.3688182,-81.0193532,13z/data=!3m1!4b1!4m5!3m4!1s0x882eadf991b497b3:0x5037b28c7231dd0!8m2!3d43.3700007!4d-80.9822286
+*  Gallery Stratford https://www.google.com/maps/place/Gallery+Stratford/@43.3764971,-80.9702652,15.75z/data=!4m5!3m4!1s0x882eadbe3534e03f:0x7de0a9db1f20893c!8m2!3d43.3757519!4d-80.9636832
+*  Shakespearean garden https://www.google.com/maps/place/Shakespearean+Gardens/@43.3718212,-80.9884885,17z/data=!3m1!4b1!4m5!3m4!1s0x882eadf63dbb8eeb:0x9564562491ba75e7!8m2!3d43.3718212!4d-80.9862945
+*  Walk of Fame - Avon Theathre https://www.google.com/maps/place/Avon+Theatre+%7C+Stratford+Festival/@43.3692524,-80.9816305,19z/data=!3m1!4b1!4m5!3m4!1s0x882eadf74bc19eb1:0x2e3dbc9e16af411f!8m2!3d43.3692514!4d-80.9810833
 *  Castle Kilbride https://www.wilmot.ca/en/Castle-Kilbride-Museum.aspx  https://www.google.com/maps/place/Castle+Kilbride/@43.4042875,-80.6738057,17z/data=!3m2!4b1!5s0x882c0783f61b0ac9:0xc1a25382e1430f40!4m5!3m4!1s0x882c078436168e35:0x2c512d9d9b0b2bf2!8m2!3d43.4042875!4d-80.6716117?hl=en-US
 * Anna Mae's Bakery & Restaurant https://annamaes.ca/   https://www.google.com/maps/place/Anna+Mae's+Bakery+%26+Restaurant/@43.5718755,-80.8337368,15z/data=!4m5!3m4!1s0x0:0xfcbae0a392d6d72c!8m2!3d43.5718755!4d-80.8337368
 * SpeadQuest go karting http://www.speedquest.ca/index.html   https://www.google.com/maps/place/Speed+Quest/@43.4570249,-80.4748232,17z/data=!3m1!4b1!4m5!3m4!1s0x882bf56875365b1d:0x1dc445bda5f0890b!8m2!3d43.4570249!4d-80.4726292
