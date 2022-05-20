@@ -5,7 +5,8 @@
 
 ## steps  
 1. Montreal
-2. 
+2. Ben & Jerry's Factory
+3. Boston
 
 ## notes  
 *  Montreal
