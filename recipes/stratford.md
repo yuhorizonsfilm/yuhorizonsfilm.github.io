@@ -8,6 +8,7 @@
 2. ake Hwy 8 to stratford
 
 ## notes  
+*  Castle Kilbride https://www.google.com/maps/place/Castle+Kilbride/@43.4042875,-80.6738057,17z/data=!3m2!4b1!5s0x882c0783f61b0ac9:0xc1a25382e1430f40!4m5!3m4!1s0x882c078436168e35:0x2c512d9d9b0b2bf2!8m2!3d43.4042875!4d-80.6716117?hl=en-US
 *  
 
 ## based on  
