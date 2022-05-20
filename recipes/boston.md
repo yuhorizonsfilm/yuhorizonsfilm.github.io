@@ -1,7 +1,7 @@
-# title  
+# Boston Road Trip  
 
 ## info  
-* 
+* Boston Road trip from Toronto
 
 ## steps  
 1. 
