@@ -13,6 +13,7 @@
 
 ## based on  
 *  Ben & Jerry's Factory https://www.google.com/maps/place/Ben+%26+Jerry's+Factory/@44.3517178,-72.7419217,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb59f340264be0b:0xa8e821f7bc0611b1!8m2!3d44.351714!4d-72.739733
+*  Freedom trail https://www.google.com/maps/@42.3553771,-71.0637009,3a,75y,298.31h,75.28t/data=!3m6!1e1!3m4!1shzGaUG-hid1-safkYb7dSQ!2e0!7i13312!8i6656
 *  Chinatown https://www.google.com/maps/place/Chinatown,+Boston,+MA,+USA/@42.3500328,-71.0666762,15.25z/data=!4m5!3m4!1s0x89e37a77466069bf:0xf718f0cdfbc51186!8m2!3d42.3491738!4d-71.0621059
 *  Quincy Market https://www.google.com/maps/place/Quincy+Market/@42.360187,-71.0545425,21z/data=!4m5!3m4!1s0x89e37086129398c1:0x255912fdae887cb2!8m2!3d42.3602047!4d-71.0547788
 *  Beconhill https://www.google.com/maps/place/Beacon+Hill,+Boston,+MA,+USA/@42.3618638,-71.0576068,19z/data=!4m5!3m4!1s0x89e3709e822ace4f:0xad0e41814f41c4d8!8m2!3d42.3561948!4d-71.06939
