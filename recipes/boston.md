@@ -11,6 +11,7 @@
 ## notes  
 *  Montreal
 *  Ben & Jerry's Factory (Waterbury Village Historic District, VT 05676, United States)
+*  Cannoli from Mike's Pastry or Modern Pastry
 
 ## based on  
 *  Montreal Olympic Park https://www.google.com/maps/place/Montreal+Olympic+Park/@45.5565024,-73.5534072,17z/data=!3m2!4b1!5s0x4cc91c0c30117aab:0x3333a570dff89c26!4m5!3m4!1s0x4cc91c0af920b65b:0xe3536cd22f7d0cf!8m2!3d45.5565024!4d-73.5512185
