@@ -66,7 +66,8 @@ $(document).ready(function() {
         // make any urls (in sections listed at the top)
         // that don't have link syntax into valid urls
         if (autoUrlSections.includes(id)) {
-          section = linkify(section.replace("'","asdfqwert")).replace("asdfqwert","'");
+          section = linkify(section.replaceAll("'","asdfqwert"))
+          section = section.replaceAll("asdfqwert","'");
         }
         
         // place the html inside its section
