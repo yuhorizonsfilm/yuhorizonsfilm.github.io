@@ -14,6 +14,7 @@
 ## based on  
 *  Ben & Jerry's Factory https://www.google.com/maps/place/Ben+%26+Jerry's+Factory/@44.3517178,-72.7419217,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb59f340264be0b:0xa8e821f7bc0611b1!8m2!3d44.351714!4d-72.739733
 *  Chinatown https://www.google.com/maps/place/Chinatown,+Boston,+MA,+USA/@42.3500328,-71.0666762,15.25z/data=!4m5!3m4!1s0x89e37a77466069bf:0xf718f0cdfbc51186!8m2!3d42.3491738!4d-71.0621059
+*  Quincy Market https://www.google.com/maps/place/Quincy+Market/@42.360187,-71.0545425,21z/data=!4m5!3m4!1s0x89e37086129398c1:0x255912fdae887cb2!8m2!3d42.3602047!4d-71.0547788
 *  Beconhill https://www.google.com/maps/place/Beacon+Hill,+Boston,+MA,+USA/@42.3618638,-71.0576068,19z/data=!4m5!3m4!1s0x89e3709e822ace4f:0xad0e41814f41c4d8!8m2!3d42.3561948!4d-71.06939
 *  Fenway Park https://www.google.com/maps/place/Fenway+Park/@42.34552,-71.0962982,16.25z/data=!4m5!3m4!1s0x89e379f63f253f6f:0xa2800dcb647a5504!8m2!3d42.3466764!4d-71.0972178
 *  Boston Children's Museum https://www.google.com/maps/place/Boston+Children's+Museum/@42.3517551,-71.0516824,17z/data=!3m1!5s0x89e3707fe02e185f:0xd52de2741d0dedca!4m5!3m4!1s0x89e37080065a07df:0xf7e753ec01cb4dc3!8m2!3d42.3519736!4d-71.0496839 
