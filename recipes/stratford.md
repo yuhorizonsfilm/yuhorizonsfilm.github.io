@@ -20,6 +20,7 @@
 *  Stratford https://www.google.com/maps/place/Stratford,+ON/@43.3688182,-81.0193532,13z/data=!3m1!4b1!4m5!3m4!1s0x882eadf991b497b3:0x5037b28c7231dd0!8m2!3d43.3700007!4d-80.9822286
 *  Gallery Stratford https://www.google.com/maps/place/Gallery+Stratford/@43.3764971,-80.9702652,15.75z/data=!4m5!3m4!1s0x882eadbe3534e03f:0x7de0a9db1f20893c!8m2!3d43.3757519!4d-80.9636832
 *  Shakespearean garden https://www.google.com/maps/place/Shakespearean+Gardens/@43.3718212,-80.9884885,17z/data=!3m1!4b1!4m5!3m4!1s0x882eadf63dbb8eeb:0x9564562491ba75e7!8m2!3d43.3718212!4d-80.9862945
+*  Avon Pedal Boat Rental https://www.google.com/maps/place/Avon+Pedal+Boat+Rentals+and+River+Cruise/@43.3722744,-80.9853461,17z/data=!3m1!4b1!4m5!3m4!1s0x882eadf68c4dcc45:0x8d32b842e376d09!8m2!3d43.3722698!4d-80.9831918
 *  Walk of Fame - Avon Theathre https://www.google.com/maps/place/Avon+Theatre+%7C+Stratford+Festival/@43.3692524,-80.9816305,19z/data=!3m1!4b1!4m5!3m4!1s0x882eadf74bc19eb1:0x2e3dbc9e16af411f!8m2!3d43.3692514!4d-80.9810833
 *  Alley Cat Cafe https://www.google.com/maps/place/Alley+Cat+Cat+Cafe/@43.3693187,-80.9819975,19z/data=!4m5!3m4!1s0x882eadff19308901:0x766d53aee1c24508!8m2!3d43.3693563!4d-80.9817759
 *  Castle Kilbride https://www.wilmot.ca/en/Castle-Kilbride-Museum.aspx  https://www.google.com/maps/place/Castle+Kilbride/@43.4042875,-80.6738057,17z/data=!3m2!4b1!5s0x882c0783f61b0ac9:0xc1a25382e1430f40!4m5!3m4!1s0x882c078436168e35:0x2c512d9d9b0b2bf2!8m2!3d43.4042875!4d-80.6716117?hl=en-US
