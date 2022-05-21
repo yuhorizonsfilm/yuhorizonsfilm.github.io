@@ -11,7 +11,7 @@
 ## notes  
 *  Stratford
 *  Castle Kilbride (60 Snyder's Rd W, Baden, ON N3A 1A1)
-*  Anna Mae's Bakery and Restaurant (4060 Perth County Line 72, Millbank, ON N0K 1L0)
+*  Anna Mae's Bakery and Restaurant 519-595-4407 (4060 Perth County Line 72, Millbank, ON N0K 1L0)
 *  Conestogo Community Park (Evening Star Ln, Conestogo, ON N0B 1N0)
 *  SpeedQuest (385 Frederick St Basement, Kitchener, ON N2H 2P2)
 *  
