@@ -4,7 +4,11 @@
 * Things to do around Bronte Creek campground
 
 ## steps  
-1. 
+1. Take Hwy 407 west
+2. Take Hwy 407 towards Hamilton
+3. Take Bronte Rd Exit (25)
+4. Turn right on Upper Middle Rd W
+5. Go stright into Bronte Creek campground
 
 ## notes  
 *  Dundurn Castle
