@@ -1,7 +1,7 @@
-# title  
+# Bronte Creek  
 
 ## info  
-* 
+* Things to do around Bronte Creek campground
 
 ## steps  
 1. 
