@@ -13,6 +13,11 @@
 *  Cup and Saucer Nature Reserce
 *  Bridle Veil Falls
 *  Owen Sound Transportation, South Baymouth
+*  Chi Cheemaun Ferry - Tobermory Terminal
+*  Singing Sands
+*  The Grotto
+*  Sauble Beach
+*  Blue Mountains
 
 ## based on  
 *  Road trip leg 1 https://www.google.com/maps/dir/Shops+On+Steeles+%26+404,+Steeles+Avenue+East,+Thornhill,+ON/Killbear+Provincial+Park,+Eddie+Ramsay+Parkway,+Nobel,+ON/Science+North,+Ramsey+Lake+Road,+Sudbury,+ON/Cup+and+Saucer+Nature+Reserve,+Ontario+540,+Sheguiandah,+ON/Bridal+Veil+Falls,+Billings,+ON/Owen+Sound+Transportation,+South+Baymouth,+ON-6,+Wikwemikong,+ON+P0P+2J0/@44.992197,-81.7227129,7.5z/data=!4m43!4m42!1m10!1m1!1s0x89d4d341be85dcdd:0x21bd2f57a115c0de!2m2!1d-79.3586465!2d43.8129562!3m4!1m2!1d-79.4338634!2d44.0653814!3s0x882acd842b486f13:0xdcb0157ebfadc217!1m5!1m1!1s0x4d2bbd619d3e2477:0x4b05eea1796c8494!2m2!1d-80.2136888!2d45.3590805!1m5!1m1!1s0x4d2faaad1a8c38fd:0x26dd04ce9905af3!2m2!1d-80.9963504!2d46.4704673!1m5!1m1!1s0x4d321ca195d9fb4b:0x79aae3c394386559!2m2!1d-82.1141922!2d45.8532714!1m5!1m1!1s0x4d321f7d11141629:0x430d365786cde84e!2m2!1d-82.2551178!2d45.9010259!1m5!1m1!1s0x4d327570eb0d473b:0xf15a685ff3322129!2m2!1d-82.0087561!2d45.5588485!3e0
