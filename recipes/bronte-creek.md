@@ -18,6 +18,7 @@
 *  HMCS Haida National Historic Site
 *  Spencer Smith Park
 *  Adventure village
+*  Fort George National Historic Site
 
 ## based on  
 *  Road map https://www.google.com/maps/dir/Shops+On+Steeles+%26+404,+Steeles+Avenue+East,+Markham,+ON/Bronte+Creek+Provincial+Park+(camping+area),+Upper+Middle+Road+West,+Oakville,+ON/@43.6791472,-79.6979209,10z/data=!4m19!4m18!1m10!1m1!1s0x89d4d341be85dcdd:0x21bd2f57a115c0de!2m2!1d-79.3586465!2d43.8129562!3m4!1m2!1d-79.5171473!2d43.7877418!3s0x882b2e4b6f043f1d:0xc7b3679b93b1411a!1m5!1m1!1s0x882b67378776538f:0x159ea74f8b57b78!2m2!1d-79.7647049!2d43.4177837!3e0
@@ -28,5 +29,6 @@
 *  Rattlesnake Point Conservation Area https://www.google.com/maps/place/Rattlesnake+Point+Conservation+Area+(Reservations+Required)/@43.4719304,-79.9284996,15.75z/data=!4m5!3m4!1s0x882b6f81fb202bff:0x72e3e7c03a7f0398!8m2!3d43.471371!4d-79.912705
 *  Tews Falls https://www.google.com/maps/place/Tews+Falls+(Reservation+Required)/@43.2807849,-79.9805648,17z/data=!3m1!4b1!4m5!3m4!1s0x882c838ee3e98287:0xc85d281b7cf5a064!8m2!3d43.280781!4d-79.9783761
 *  HMCS Haida National Historic Site https://www.google.com/maps/place/HMCS+Haida/@43.2753659,-79.8576397,17z/data=!3m1!4b1!4m5!3m4!1s0x882b3511824cb54b:0x3fe2fa72ea26246!8m2!3d43.275362!4d-79.855451
-*  
+*  Fort George National Historic Site https://www.google.com/maps/place/Fort+George+National+Historic+Site/@43.2508062,-79.0637953,17z/data=!3m1!4b1!4m5!3m4!1s0x89d35f9ef3441a17:0xd92898979e97a77e!8m2!3d43.2508023!4d-79.0616066
+*  Niagara-on-the-lake https://www.google.com/maps/place/Memorial+Clock+Tower+of+Niagara-on-the-Lake/@43.2549965,-79.0725374,18.75z/data=!4m13!1m7!3m6!1s0x89d35f711bde475d:0xeb27100c0c771538!2sHistoric+Niagara+District+Court+House,+26+Queen+St,+Niagara-on-the-Lake,+ON+L0S+1J0!3b1!8m2!3d43.2549168!4d-79.0719643!3m4!1s0x89d35f711facdcdb:0x3e8fbb74db2e6a0e!8m2!3d43.2551823!4d-79.0717389
 
