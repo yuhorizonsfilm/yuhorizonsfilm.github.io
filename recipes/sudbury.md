@@ -4,7 +4,21 @@
 * Road trip from Toronto to Sudbury
 
 ## steps  
-1. 
+1. Take 404 north to Newmarket
+2. Take HWY 9 to Hwy 400
+3. Take Hwy 400 north
+4. Take Hwy 69 north
+5. Take Hwy 46 north west to Sudbury
+6. Take Hwy 6 to Manitoulin Island
+7. Take Chi Cheemaun Ferry to Tobomory
+8. Take Hwy 6 to Dorcas Bay road
+9. Turn right onto Singing Sand beach
+10. Go south on Hwy 6 to Cyprus Lake Rd
+11. Turn left on Cyprus Lake Rd to The Grotto
+12. Take Hwy 6 down to Queen St W
+13. Turn Right on Queen St W to Sauble Beach
+14. Take Hwy 6 to Owen Sound
+15. Take Hwy 26 to Blue Mountain
 
 ## notes  
 *  Science North
