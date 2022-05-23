@@ -15,7 +15,7 @@
 
 ## based on  
 *  Montreal Olympic Park https://www.google.com/maps/place/Montreal+Olympic+Park/@45.5565024,-73.5534072,17z/data=!3m2!4b1!5s0x4cc91c0c30117aab:0x3333a570dff89c26!4m5!3m4!1s0x4cc91c0af920b65b:0xe3536cd22f7d0cf!8m2!3d45.5565024!4d-73.5512185
-*  Ben & Jerry's Factory https://www.google.com/maps/place/Ben+%26+Jerry's+Factory/@44.3517178,-72.7419217,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb59f340264be0b:0xa8e821f7bc0611b1!8m2!3d44.351714!4d-72.739733
+*  Ben & Jerry's Factory https://www.benjerry.com/about-us/factory-tours  https://www.google.com/maps/place/Ben+%26+Jerry's+Factory/@44.3517178,-72.7419217,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb59f340264be0b:0xa8e821f7bc0611b1!8m2!3d44.351714!4d-72.739733
 *  Freedom trail https://www.google.com/maps/@42.3553771,-71.0637009,3a,75y,298.31h,75.28t/data=!3m6!1e1!3m4!1shzGaUG-hid1-safkYb7dSQ!2e0!7i13312!8i6656
 *  Chinatown https://www.google.com/maps/place/Chinatown,+Boston,+MA,+USA/@42.3500328,-71.0666762,15.25z/data=!4m5!3m4!1s0x89e37a77466069bf:0xf718f0cdfbc51186!8m2!3d42.3491738!4d-71.0621059
 *  Quincy Market https://www.google.com/maps/place/Quincy+Market/@42.360187,-71.0545425,21z/data=!4m5!3m4!1s0x89e37086129398c1:0x255912fdae887cb2!8m2!3d42.3602047!4d-71.0547788
