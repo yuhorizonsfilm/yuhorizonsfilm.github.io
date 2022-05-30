@@ -3,7 +3,7 @@
 ## info  
 * Road trip from Toronto to Boston
 
-## Directions  
+## directions  
 1. Montreal
 2. Ben & Jerry's Factory
 3. Boston
