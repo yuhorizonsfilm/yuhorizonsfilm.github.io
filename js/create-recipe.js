@@ -55,7 +55,7 @@ $(document).ready(function() {
 
           // change page title too
           let elems = $(section);
-          let pageTitle = elems[0].innerHTML + ' | References';
+          let pageTitle = elems[0].innerHTML + '';
           $(document).prop('title', pageTitle);
         }
         // for all other pages, get id from regex match
