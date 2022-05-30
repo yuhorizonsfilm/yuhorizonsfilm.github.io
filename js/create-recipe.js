@@ -70,7 +70,7 @@ $(document).ready(function() {
           section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")");          
         }
         section = section.replace("notes","things to do");
-        section = section.replace("steps","itenary");
+        section = section.replace("steps","itinerary");
         section = section.replace("based on","reference");
         
         // place the html inside its section
