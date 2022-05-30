@@ -68,6 +68,7 @@ $(document).ready(function() {
         if (autoUrlSections.includes(id)) {
           section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert"))
           section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")");
+          section = section.replace("notes","things to do");
         }
         
         // place the html inside its section
