@@ -67,9 +67,11 @@ $(document).ready(function() {
         // that don't have link syntax into valid urls
         if (autoUrlSections.includes(id)) {
           section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert"))
-          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")");
-          section = section.replace("notes","things to do");
+          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")");          
         }
+        section = section.replace("notes","things to do");
+        section = section.replace("steps","itenary");
+        section = section.replace("based on","reference");
         
         // place the html inside its section
         $('#' + id).html(section);
