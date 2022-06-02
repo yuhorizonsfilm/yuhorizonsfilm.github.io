@@ -14,7 +14,6 @@
 *  Mount Royal
 *  Sainte Catherine Street (or locally called Rue Ste.-Catherine)
 *  Montreal olympic statium
-*  
 *  Ben & Jerry's Factory (Waterbury Village Historic District, VT 05676, United States)
 *  Cannoli from Mike's Pastry or Modern Pastry
 
