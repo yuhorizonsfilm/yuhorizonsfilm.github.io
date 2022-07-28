@@ -15,3 +15,5 @@
 *  Veescope itunes https://apps.apple.com/us/app/veescope-live-green-screen-app/id568390801
 *  Car crash https://www.youtube.com/watch?v=Ub9-mwSB9PA
 *  Cam corder https://www.youtube.com/watch?v=mx9SAkb27ow
+*  Lightning https://www.youtube.com/watch?v=wZFnpf4CvE4
+*  Basketball spinning https://www.youtube.com/watch?v=jNEetEr_2sc
