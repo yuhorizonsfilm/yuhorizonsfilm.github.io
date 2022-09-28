@@ -9,9 +9,12 @@
 ## notes  
 *  Sould cloud, just add link to use for free:
 *  eg.
-*  Music by
-*  MBB (Kiitos paljon!)
+*  
+*  Music by MBB (Kiitos paljon!)
 *  https://soundcloud.com/mbbofficial
+*
+*  All music licensed under a Creative Commons Licence if not otherwise stated.
+*  https://creativecommons.org/licenses/by/3.0/
 
 
 ## based on  
