@@ -66,8 +66,8 @@ $(document).ready(function() {
         // make any urls (in sections listed at the top)
         // that don't have link syntax into valid urls
         if (autoUrlSections.includes(id)) {
-          section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert"))
-          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")");          
+          section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert").replaceAll("?","esdfqwert"))
+          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")").replaceAll("esdfqwert","?");          
         }
         section = section.replace("based on","references");
         
