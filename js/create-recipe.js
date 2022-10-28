@@ -63,11 +63,11 @@ $(document).ready(function() {
           id = id[1];
         }
 
-        // make any urls (in sections listed at the top)
+        // make any urls (in sections listed at the top) _gallery-1-
         // that don't have link syntax into valid urls
         if (autoUrlSections.includes(id)) {
-          section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert").replaceAll("?","esdfqwert"))
-          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")").replaceAll("esdfqwert","?");          
+          section = linkify(section.replaceAll("'","asdfqwert").replaceAll("_","bsdfqwert").replaceAll("(","csdfqwert").replaceAll(")","dsdfqwert").replaceAll("_","esdfqwert"))
+          section = section.replaceAll("asdfqwert","'").replaceAll("bsdfqwert","_").replaceAll("csdfqwert","(").replaceAll("dsdfqwert",")").replaceAll("esdfqwert","_");          
         }
         section = section.replace("based on","references");
         
