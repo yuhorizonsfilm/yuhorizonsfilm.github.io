@@ -18,7 +18,7 @@ function linkify(str) {
 
 function linkify2(inputText) {
     //URLs starting with http://, https://, or ftp://
-    var replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&amp;@#\/%?=~_|!:,.;]*[-A-Z0-9+&amp;@#\/%=~_|])/gim;
+    var replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&amp;@_#\/%?=~|!:,.;]*[-A-Z0-9+&amp;@_#\/%=~|])/gim;
     var replacedText = inputText.replace(replacePattern1, '<a href="$1" target="_blank">$1</a>');
 
     //URLs starting with www. (without // before it, or it'd re-link the ones done above)
