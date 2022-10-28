@@ -16,10 +16,25 @@ function linkify(str) {
   return str;
 }
 
+function linkify2(inputText) {
+    //URLs starting with http://, https://, or ftp://
+    var replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&amp;@#\/%?=~_|!:,.;]*[-A-Z0-9+&amp;@#\/%=~_|])/gim;
+    var replacedText = inputText.replace(replacePattern1, '&lt;a href=&quot;$1&quot; target=&quot;_blank&quot;&gt;$1&lt;/a&gt;');
+
+    //URLs starting with www. (without // before it, or it'd re-link the ones done above)
+    var replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+    var replacedText = replacedText.replace(replacePattern2, '$1&lt;a href=&quot;http://$2&quot; target=&quot;_blank&quot;&gt;$2&lt;/a&gt;');
+
+    //Change email addresses to mailto:: links
+    var replacePattern3 = /(\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6})/gim;
+    var replacedText = replacedText.replace(replacePattern3, '&lt;a href=&quot;mailto:$1&quot;&gt;$1&lt;/a&gt;');
+
+    return replacedText
+}
 
 // handy function to create links in the markdown text
 // via: https://stackoverflow.com/a/3890175/1167783
-function linkify(str) {
+function linkify3(str) {
   // urls starting with http://, https://, or ftp://
   let httpPattern = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim;
   str = str.replace(httpPattern, '<a href="$1" target="_blank">$1</a>');
