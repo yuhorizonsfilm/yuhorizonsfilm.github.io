@@ -18,12 +18,12 @@ function linkify(str) {
 
 function linkify2(inputText) {
     //URLs starting with http://, https://, or ftp://
-    var replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&amp;@_#\/%?=~|!:,.;]*[-A-Z0-9+&amp;@_#\/%=~|])/gim;
+    var replacePattern1 = /(\bhttps?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*))/gim;
     var replacedText = inputText.replace(replacePattern1, '<a href="$1" target="_blank">$1</a>');
 
     //URLs starting with www. (without // before it, or it'd re-link the ones done above)
-    var replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
-    var replacedText = replacedText.replace(replacePattern2, '<a href="$2" target="_blank">$2</a>');
+    //var replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+    //var replacedText = replacedText.replace(replacePattern2, '<a href="$2" target="_blank">$2</a>');
 
     //Change email addresses to mailto:: links
     //var replacePattern3 = /(\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6})/gim;
