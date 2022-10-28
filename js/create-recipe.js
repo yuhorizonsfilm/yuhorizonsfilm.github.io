@@ -74,6 +74,7 @@ $(document).ready(function() {
         
         // place the html inside its section
         $('#' + id).html(section);
+        document.getElementById(id).innerHTML = document.getElementById(id).innerHTML.replace(/<em>|<\/em>/g,"_");
       }
 
       // a few more bits to nicen things up...
