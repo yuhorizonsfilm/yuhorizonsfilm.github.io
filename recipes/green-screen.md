@@ -17,3 +17,6 @@
 *  Cam corder https://www.youtube.com/watch?v=mx9SAkb27ow
 *  Lightning https://www.youtube.com/watch?v=wZFnpf4CvE4
 *  Basketball spinning https://www.youtube.com/watch?v=jNEetEr_2sc
+*  Green screen effects: https://www.youtube.com/@FunLearningChannel/videos
+*  Spider: https://www.youtube.com/watch?v=3lE0lgt6ZL4
+*  Spider2: https://www.youtube.com/watch?v=bMwBeYIO6uQ
