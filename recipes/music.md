@@ -18,7 +18,9 @@
 
 
 ## based on  
-*  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music 
+*  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music
+*  Audio Library Plus - https://www.youtube.com/@audiolibraryplus/videos
+*  Audio Library Plus (policy) - https://www.audiolibrary.plus/usage-policy.html
 *  Sound buttons - https://www.myinstants.com/en/index/ca/ 
 *  Free Stock Music - https://www.free-stock-music.com/ 
 *  Sound cloud - https://soundcloud.com/lesionxbeats 
