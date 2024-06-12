@@ -22,11 +22,20 @@
 *  Video Link: https://www.youtube.com/watch?v=-KxnDWhbSDw  
 *  Music provided by 1 Hour Vlog No Copyright Music.
 *  Channel: https://urlz.fr/9UQL
+*  d
+*  Wake up by MBB
+*  ============
+*  Wake Up by MBB   / mbbofficial  
+*  Creative Commons — Attribution-ShareAlike 3.0 Unported  — CC BY-SA 3.0 
+*  Free Download / Stream: http://bit.ly/2CDshIl
+*  Music promoted by Audio Library    • Wake Up – MBB (No Copyright Music)  
 
 
 ## based on  
 *  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music
+*  Audio library videos - https://www.youtube.com/@audiolibrary_/videos 
 *  Erik Lund Summertime - https://www.youtube.com/watch?v=-KxnDWhbSDw 
+*  Wake up by MBB - https://www.youtube.com/watch?v=6lqS34C4DCg 
 *  Audio Library Plus - https://www.youtube.com/@audiolibraryplus/videos 
 *  Audio Library Plus (policy) - https://www.audiolibrary.plus/usage-policy.html 
 *  Sound buttons - https://www.myinstants.com/en/index/ca/ 
