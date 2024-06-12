@@ -15,14 +15,14 @@
 *  ---
 *  All music licensed under a Creative Commons Licence if not otherwise stated.
 *  https://creativecommons.org/licenses/by/3.0/
-*  
+*   
 *  Erik Lund must put the following
 *  ==========
 *  Song: Erik Lund - Summertime (Vlog No Copyright Music)
 *  Video Link: https://www.youtube.com/watch?v=-KxnDWhbSDw  
 *  Music provided by 1 Hour Vlog No Copyright Music.
 *  Channel: https://urlz.fr/9UQL
-*  d
+*   
 *  Wake up by MBB
 *  ============
 *  Wake Up by MBB   / mbbofficial  
