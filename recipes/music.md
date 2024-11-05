@@ -33,7 +33,10 @@
 
 ## based on  
 *  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music
-*  Audio library videos - https://www.youtube.com/@audiolibrary_/videos 
+*  Pixabay - https://pixabay.com/music/
+*  Audio library videos - https://www.youtube.com/@audiolibrary_/videos
+*  Better Days - https://www.youtube.com/watch?v=RXLzvo6kvVQ&list=RDEMrkfXzfVmlTH1CBD67zzTXg
+*  Better Days - https://soundcloud.com/lakeyinspired/better-days
 *  Erik Lund Summertime - https://www.youtube.com/watch?v=-KxnDWhbSDw 
 *  Wake up by MBB - https://www.youtube.com/watch?v=6lqS34C4DCg 
 *  Audio Library Plus - https://www.youtube.com/@audiolibraryplus/videos 
