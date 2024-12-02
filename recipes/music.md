@@ -32,7 +32,8 @@
 
 
 ## based on  
-*  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music 
+*  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music
+*  Check if you can use license material - https://secondhandsongs.com/license/request/new?performance=3145 
 *  Pixabay - https://pixabay.com/music/ 
 *  Audio library videos - https://www.youtube.com/@audiolibrary_/videos 
 *  Better Days - https://www.youtube.com/watch?v=RXLzvo6kvVQ&list=RDEMrkfXzfVmlTH1CBD67zzTXg 
