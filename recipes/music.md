@@ -33,6 +33,7 @@
 
 ## based on  
 *  Youtube music/audio library - https://studio.youtube.com/channel/UC84h0JCt-fZihjlzDCbrelg/music 
+*  AI generate music - https://www.flowmusic.app/ 
 *  Check if you can use license material - https://secondhandsongs.com/license/request/new?performance=3145 
 *  Free music - https://uppbeat.io/  
 *  Pixabay - https://pixabay.com/music/ 
